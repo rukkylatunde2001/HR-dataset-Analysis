@@ -22,7 +22,7 @@ The purpose was to solve the following insights
 
 ## Data Transformation
 Data cleaning was done using Power Query Editor.
-Duplicates were removed, and Null values replaces as needed
+Duplicates were removed, and Null values replaces as needed.
 No Modelling was done as the data contained only one table.
 
 ## Findings
