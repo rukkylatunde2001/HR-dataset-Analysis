@@ -23,6 +23,7 @@ The purpose was to solve the following insights
 ## Data Transformation
 Data cleaning was done using Power Query Editor.
 Duplicates were removed, and Null values replaces as needed
+No Modelling was done as the data contained only one table.
 
 ## Findings
 Analysis shows a total number of 54.81 thousand employees with more Males than Female and a larger percentage has atleast a Bacherlor's dregre. 
